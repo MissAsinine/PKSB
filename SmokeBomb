@@ -236,7 +236,7 @@ import com.projectkorra.projectkorra.util.ParticleEffect;
 
 	@Override
 	public String getAuthor() {
-		return "Prride and MrAsinine";
+		return "MissAsinine";
 	}
 
 	@Override
